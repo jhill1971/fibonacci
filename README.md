@@ -15,3 +15,6 @@ Author: James Hill
 1. The user is prompted to enter the number of terms.
 2. The program displays the first two Fibonacci numbers (0 and 1).
 3. A loop runs until the counter exceeds the user-specified number, calculating each new fibonacci number and displaying it. 
+
+## Screenshot
+![fibonacci](https://github.com/user-attachments/assets/5f483f8a-b2eb-482e-8e5d-2ded84c173e1)
